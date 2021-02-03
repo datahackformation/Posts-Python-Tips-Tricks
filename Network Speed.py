@@ -1,3 +1,9 @@
+"""Previamente tienes que installar psutil, speedtest-cli y tabulate con pip
+pip install psutil
+pip install speedtest-cli
+pip install tabulate
+"""
+
 import psutil
 import speedtest
 from tabulate import tabulate
