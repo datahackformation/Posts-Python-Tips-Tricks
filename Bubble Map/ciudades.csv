@@ -1,0 +1,432 @@
+city;lat;lng;country;population
+São Paulo;-23.5504;-46.6339;Brazil;22046000
+Buenos Aires;-34.5997;-58.3819;Argentina;16157000
+Rio de Janeiro;-22.9083;-43.1964;Brazil;12272000
+Lima;-12.05;-77.0333;Peru;9848000
+Bogotá;4.6126;-74.0705;Colombia;9464000
+Santiago;-33.45;-70.6667;Chile;7007000
+Belo Horizonte;-19.8917;-43.9478;Brazil;5159000
+Santa Cruz;-17.7892;-63.1975;Bolivia;3151676
+Brasília;-15.7744;-48.0773;Brazil;3015268
+Salvador;-12.9708;-38.5108;Brazil;2921087
+La Paz;-16.4942;-68.1475;Bolivia;2867504
+Guayaquil;-2.1833;-79.8833;Ecuador;2723665
+Medellín;6.2447;-75.5748;Colombia;2529403
+Cali;3.44;-76.5197;Colombia;2471474
+Fortaleza;-3.7275;-38.5275;Brazil;2452185
+Quito;-0.2186;-78.5097;Ecuador;2011388
+Caracas;10.5;-66.9333;Venezuela;1943901
+Curitiba;-25.4297;-49.2719;Brazil;1879355
+Asunción;-25.3;-57.6333;Paraguay;1870000
+Barranquilla;10.96;-74.8;Colombia;1798000
+Manaus;-3.1;-60.0167;Brazil;1802014
+Vitória;-20.324;-40.366;Brazil;1704000
+Recife;-8.0539;-34.8808;Brazil;1555039
+Maracaibo;10.6333;-71.6333;Venezuela;1551539
+Porto Alegre;-30.0328;-51.23;Brazil;1484941
+Valencia;10.1667;-68;Venezuela;1484430
+Goiânia;-16.6789;-49.2539;Brazil;1393575
+Belém;-1.4558;-48.5039;Brazil;1393399
+Córdoba;-31.4167;-64.1833;Argentina;1329604
+Guarulhos;-23.4667;-46.5333;Brazil;1324781
+Montevideo;-34.8667;-56.1667;Uruguay;1319108
+Vila Velha;3.2167;-51.2167;Brazil;1209091
+Rosario;-32.9575;-60.6394;Argentina;1193605
+Campinas;-22.9009;-47.0573;Brazil;1164098
+Callao;-12.0611;-77.1333;Peru;1129854
+São Luís;-2.53;-44.3028;Brazil;1073893
+Barquisimeto;10.0678;-69.3467;Venezuela;1059092
+Cartagena;10.4236;-75.5253;Colombia;1036412
+Maceió;-9.6658;-35.735;Brazil;1029129
+Arequipa;-16.3988;-71.5369;Peru;1008290
+Sucre;-19.0431;-65.2592;Bolivia;300000
+Joinvile;-26.32;-48.8399;Brazil;988000
+Natal;-6.9838;-60.2699;Brazil;980588
+Trujillo;-8.1119;-79.0289;Peru;919899
+Olinda;-8;-34.85;Brazil;921840
+Natal;-5.795;-35.2089;Brazil;877662
+Novo Hamburgo;-29.7096;-51.14;Brazil;876990
+Campo Grande;-20.4686;-54.6222;Brazil;874210
+Barinas;8.6333;-70.2167;Venezuela;873962
+Teresina;-5.0949;-42.8042;Brazil;847430
+Iguaçu;-22.74;-43.47;Brazil;844583
+São Bernardo do Campo;-23.6939;-46.565;Brazil;816925
+João Pessoa;-7.0833;-34.8333;Brazil;801718
+Ciudad Guayana;8.3596;-62.6517;Venezuela;751331
+Cúcuta;7.9075;-72.5047;Colombia;750000
+San Cristóbal;7.7682;-72.2322;Venezuela;743924
+Jaboatão;-8.1803;-35.0014;Brazil;702621
+Santo André;-23.6572;-46.5333;Brazil;710210
+Soledad;10.92;-74.77;Colombia;698852
+Osasco;-23.5328;-46.7919;Brazil;694844
+Aracaju;-10.9111;-37.0717;Brazil;685356
+São José dos Campos;-23.1789;-45.8869;Brazil;688597
+São José dos Pinhais;-25.57;-49.18;Brazil;665063
+Ribeirão Prêto;-21.1783;-47.8067;Brazil;666323
+Catia La Mar;10.6;-67.0333;Venezuela;661897
+Sorocaba;-23.5019;-47.4578;Brazil;644919
+Cochabamba;-17.3935;-66.157;Bolivia;632013
+San Miguel de Tucumán;-26.8167;-65.2167;Argentina;605767
+Uberlândia;-18.9189;-48.2769;Brazil;604013
+Canoas;-29.92;-51.18;Brazil;600000
+Mar del Plata;-38;-57.55;Argentina;593337
+Cuiabá;-15.5958;-56.0969;Brazil;585367
+Bucaramanga;7.1186;-73.1161;Colombia;581130
+Pereira;4.8104;-75.68;Colombia;568750
+Ciudad Bolívar;8.1167;-63.55;Venezuela;567953
+Chiclayo;-6.763;-79.8366;Peru;552508
+Maturín;9.7457;-63.1832;Venezuela;542259
+Ibagué;4.4378;-75.2006;Colombia;541101
+Salta;-24.7883;-65.4106;Argentina;535303
+Villavicencio;4.1425;-73.6294;Colombia;527668
+Santa Teresa del Tuy;10.2333;-66.65;Venezuela;525321
+Londrina;-23.3;-51.18;Brazil;520238
+Bello;6.33;-75.57;Colombia;519670
+Santa Marta;11.2361;-74.2017;Colombia;515556
+Niterói;-22.8833;-43.1036;Brazil;496696
+Chimbote;-9.0745;-78.5936;Peru;497875
+Valledupar;10.4603;-73.2597;Colombia;490075
+Juiz de Fora;-21.7642;-43.3503;Brazil;470193
+Feira de Santana;-12.25;-38.97;Brazil;481911
+Americana;-22.7392;-47.3314;Brazil;479472
+Florianópolis;-27.5933;-48.553;Brazil;477798
+San Juan;-31.5375;-68.5364;Argentina;471389
+Vila Velha;-20.3364;-40.2936;Brazil;472762
+Macapá;0.033;-51.0653;Brazil;474706
+Piura;-5.2008;-80.6253;Peru;473025
+Lanús;-34.7;-58.4;Argentina;459263
+Mauá;-23.6678;-46.4608;Brazil;453286
+Montería;8.76;-75.8856;Colombia;460223
+Volta Redonda;-22.5196;-44.095;Brazil;456362
+Barcelona;10.1333;-64.6833;Venezuela;448016
+São José do Rio Prêto;-20.82;-49.3789;Brazil;442548
+Diadema;-23.6858;-46.6228;Brazil;412428
+Santos;-23.9608;-46.3339;Brazil;433966
+Cusco;-13.5183;-71.9781;Peru;428450
+Mogi das Cruzes;-23.5228;-46.1931;Brazil;424633
+Ipatinga;-19.4796;-42.52;Brazil;407894
+Maracay;10.2469;-67.5958;Venezuela;407109
+Santa Fe;-31.6333;-60.7;Argentina;405683
+Campina Grande;-7.2306;-35.8811;Brazil;405072
+Carapicuíba;-23.5228;-46.8358;Brazil;392294
+Jundiaí;-23.1864;-46.8842;Brazil;401896
+Campos;-21.7523;-41.3304;Brazil;387417
+San Lorenzo;-25.3431;-57.5094;Paraguay;387977
+Caxias do Sul;-29.18;-51.17;Brazil;381270
+Rio Branco;-9.9781;-67.8117;Brazil;383443
+Pasto;1.2136;-77.2811;Colombia;382236
+Antofagasta;-23.6464;-70.398;Chile;380695
+Huancayo;-12.0667;-75.2167;Peru;378203
+Iquitos;-3.7333;-73.25;Peru;377609
+Manizales;5.06;-75.52;Colombia;375848
+Cumaná;10.45;-64.1667;Venezuela;374706
+Bauru;-22.3147;-49.0606;Brazil;366992
+Anápolis;-16.3269;-48.9528;Brazil;366491
+Montes Claros;-16.7322;-43.8636;Brazil;361915
+São Vicente;-23.9633;-46.3922;Brazil;355542
+Itaquaquecetuba;-23.4864;-46.3486;Brazil;352801
+Corrientes;-27.4833;-58.8167;Argentina;352646
+Cabimas;10.4;-71.4333;Venezuela;351735
+Piracicaba;-22.725;-47.6489;Brazil;342209
+Franca;-20.5389;-47.4008;Brazil;342112
+Viña del Mar;-33.0244;-71.5517;Chile;332875
+Cuenca;-2.8974;-79.0045;Ecuador;329928
+Maringá;-23.4095;-51.93;Brazil;328335
+Pelotas;-31.75;-52.33;Brazil;320674
+Itajaí;-26.8996;-48.68;Brazil;327126
+Boa Vista;2.82;-60.6719;Brazil;326419
+Pucallpa;-8.3833;-74.55;Peru;326040
+Uberaba;-19.7478;-47.9319;Brazil;325279
+San Salvador de Jujuy;-24.1856;-65.2994;Argentina;321789
+Neiva;2.9275;-75.2875;Colombia;316033
+Vitória da Conquista;-14.8661;-40.8394;Brazil;308204
+Guarujá;-23.9936;-46.2564;Brazil;311230
+Porto Velho;-8.7619;-63.9039;Brazil;306180
+Blumenau;-26.9189;-49.0658;Brazil;309011
+Puerto La Cruz;10.2167;-64.6167;Venezuela;306261
+Ciudad del Este;-25.5167;-54.6167;Paraguay;304282
+Armenia;4.5389;-75.6725;Colombia;301226
+Taubaté;-23.0333;-45.55;Brazil;302331
+Popayán;2.4411;-76.6061;Colombia;300837
+Praia Grande;-24.0058;-46.4028;Brazil;299261
+Mérida;8.5833;-71.1333;Venezuela;300000
+Bahía Blanca;-38.7167;-62.2667;Argentina;299101
+Petrópolis;-22.505;-43.1789;Brazil;298142
+Valparaíso;-33.0458;-71.6197;Chile;296655
+Limeira;-22.5647;-47.4017;Brazil;296440
+Ponta Grossa;-25.09;-50.16;Brazil;292177
+Resistencia;-27.4514;-58.9867;Argentina;291720
+Juliaca;-15.4908;-70.1269;Peru;291189
+Punto Fijo;11.7167;-70.1833;Venezuela;287558
+Tacna;-18.0556;-70.2483;Peru;286240
+Crato;-7.2342;-39.4094;Brazil;273883
+Coro;11.395;-69.6816;Venezuela;284266
+Taboão da Serra;-23.6019;-46.7528;Brazil;272177
+Temuco;-38.7399;-72.5901;Chile;282415
+Ica;-14.0667;-75.7333;Peru;282407
+Sincelejo;9.2994;-75.3958;Colombia;279031
+Posadas;-27.3667;-55.8969;Argentina;275988
+La Guaira;10.6;-66.9331;Venezuela;275000
+Crato;-7.4639;-63.04;Brazil;273883
+Palmas;-10.2128;-48.3603;Brazil;272726
+Santo Domingo de los Colorados;-0.2542;-79.1719;Ecuador;270875
+Sumaré;-22.8219;-47.2669;Brazil;265955
+Marabá;-5.3689;-49.1178;Brazil;266932
+Petrolina;-9.38;-40.51;Brazil;260985
+Oruro;-17.9667;-67.1167;Bolivia;264683
+Barueri;-23.5111;-46.8764;Brazil;262275
+Cascavel;-24.9558;-53.4553;Brazil;257172
+Governador Valadares;-18.87;-41.97;Brazil;250878
+Foz do Iguaçu;-25.5478;-54.5878;Brazil;256088
+Santa Maria;-29.6833;-53.8;Brazil;249219
+Turmero;10.2283;-67.4753;Venezuela;254880
+Buenaventura;3.8724;-77.0505;Colombia;252805
+Várzea Grande;-15.65;-56.14;Brazil;249752
+Santiago del Estero;-27.7844;-64.2669;Argentina;252192
+Los Teques;10.3411;-67.0406;Venezuela;251200
+Caruaru;-8.28;-35.98;Brazil;242094
+San Bernardo;-33.6;-70.7;Chile;246762
+Paraná;-31.7444;-60.5175;Argentina;247863
+Oruro;-17.98;-67.13;Bolivia;246501
+Merlo;-34.6653;-58.7275;Argentina;244168
+Puerto Montt;-41.4718;-72.9396;Chile;245902
+González Catán;-34.7708;-58.6464;Argentina;238067
+Juazeiro do Norte;-7.21;-39.32;Brazil;225230
+Tarapoto;-6.4833;-76.3667;Peru;240453
+São Carlos;-22.0178;-47.8908;Brazil;241389
+Ilhéus;-14.7936;-39.0395;Brazil;230622
+Quilmes;-34.7167;-58.2667;Argentina;230810
+El Tigre;8.8858;-64.2611;Venezuela;236566
+Machala;-3.2667;-79.9667;Ecuador;231260
+Santarém;-2.4431;-54.7083;Brazil;230428
+Rancagua;-34.1654;-70.7398;Chile;231370
+Marília;-22.2139;-49.9458;Brazil;232006
+Indaiatuba;-23.0903;-47.2181;Brazil;231033
+Itabuna;-14.7896;-39.28;Brazil;221938
+Neuquén;-38.9573;-68.0455;Argentina;231198
+Cotia;-23.6039;-46.9189;Brazil;229548
+Jacareí;-23.305;-45.9658;Brazil;226539
+Araraquara;-21.7939;-48.1758;Brazil;226508
+Itapevi;-23.5489;-46.9342;Brazil;223404
+Presidente Prudente;-22.1258;-51.3889;Brazil;222192
+José C. Paz;-34.5167;-58.7667;Argentina;216637
+Formosa;-26.1847;-58.1758;Argentina;222226
+Imperatriz;-5.52;-47.49;Brazil;218106
+La Serena;-29.9027;-71.252;Chile;221054
+San Felipe;10.3353;-68.7458;Venezuela;220786
+Hortolândia;-22.8583;-47.22;Brazil;215819
+Manta;-0.95;-80.7162;Ecuador;217553
+Concepción;-36.8271;-73.0503;Chile;217537
+Los Ángeles;-37.4707;-72.3517;Chile;218000
+Cúa;10.1667;-66.8833;Venezuela;214823
+La Victoria;10.2278;-67.3336;Venezuela;214492
+Criciúma;-28.68;-49.39;Brazil;204217
+Warnes;-17.5103;-63.1647;Bolivia;214216
+Timon;-5.115;-42.845;Brazil;203157
+Guarenas;10.4739;-66.5383;Venezuela;208663
+Puerto Cabello;10.4667;-68.0167;Venezuela;209080
+Portoviejo;-1.0544;-80.4544;Ecuador;206682
+Mossoró;-5.19;-37.34;Brazil;202583
+Sete Lagoas;-19.4496;-44.25;Brazil;201334
+Coquimbo;-29.9532;-71.338;Chile;204068
+Arica;-18.4784;-70.3211;Chile;202131
+Huacho;-11.1083;-77.6083;Peru;200585
+Cajamarca;-7.1644;-78.5106;Peru;201329
+Isidro Casanova;-34.7;-58.5833;Argentina;190696
+Rio Claro;-22.4108;-47.5608;Brazil;199961
+Divinópolis;-20.1495;-44.9;Brazil;193832
+Talca;-35.455;-71.67;Chile;197479
+Tocuyito;10.0889;-68.0922;Venezuela;197446
+Huánuco;-9.9294;-76.2397;Peru;196627
+Acarigua;9.5597;-69.2019;Venezuela;195637
+Guacara;10.2261;-67.877;Venezuela;194009
+San Fernando;7.894;-67.473;Venezuela;194274
+Godoy Cruz;-32.9167;-68.8333;Argentina;191299
+Arapiraca;-9.7525;-36.6611;Brazil;187668
+Araçatuba;-21.2089;-50.4328;Brazil;192757
+Guanare;9.0436;-69.7489;Venezuela;192644
+Valera;9.32;-70.62;Venezuela;191167
+Barrancabermeja;7.09;-73.85;Colombia;191403
+Rio Grande;-32.0495;-52.12;Brazil;187838
+Ferraz de Vasconcelos;-23.5411;-46.3689;Brazil;184700
+Santa Bárbara d’Oeste;-22.7539;-47.4139;Brazil;190139
+Cachoeiro de Itapemirim;-20.8489;-41.1128;Brazil;189889
+Potosí;-19.5833;-65.75;Bolivia;189652
+Araure;9.5667;-69.2167;Venezuela;188800
+Guatire;10.4717;-66.5406;Venezuela;187262
+Iquique;-20.2141;-70.1524;Chile;188003
+San Diego;10.2558;-67.9539;Venezuela;187215
+La Plata;-34.9333;-57.95;Argentina;186527
+Cabo Frio;-22.8789;-42.0189;Brazil;186227
+Santo Agostinho;-8.2869;-35.035;Brazil;185025
+Passo Fundo;-28.25;-52.42;Brazil;179529
+Nova Friburgo;-22.26;-42.54;Brazil;171991
+Berazategui;-34.7679;-58.2133;Argentina;180523
+La Rioja;-29.4131;-66.8558;Argentina;180995
+Ayacucho;-13.1631;-74.2244;Peru;180766
+Tunja;5.5403;-73.3614;Colombia;179263
+Tarija;-21.5317;-64.7311;Bolivia;179528
+Paita;-5.0667;-81.1;Peru;179346
+Barra Mansa;-22.56;-44.17;Brazil;169386
+Carúpano;10.6722;-63.2403;Venezuela;173877
+Comodoro Rivadavia;-45.8667;-67.5;Argentina;173266
+Sacaba;-17.4042;-66.0408;Bolivia;172466
+Carpina;-7.8508;-35.2547;Brazil;165579
+Francisco Morato;-23.2817;-46.7425;Brazil;168243
+Loja;-3.9906;-79.205;Ecuador;170280
+San Luis;-33.2994;-66.3392;Argentina;169947
+Sobral;-3.6861;-40.3497;Brazil;157996
+Ambato;-1.2417;-78.6197;Ecuador;165185
+Itapecerica da Serra;-23.7172;-46.8494;Brazil;167236
+São Caetano do Sul;-23.6228;-46.5508;Brazil;158024
+Ríohacha;11.5442;-72.9069;Colombia;167865
+Itu;-23.2642;-47.2992;Brazil;167095
+Rio Largo;-9.4783;-35.8533;Brazil;158545
+Tuluá;4.0904;-76.21;Colombia;165501
+Dourados;-22.23;-54.81;Brazil;162202
+Chillán;-36.6067;-72.1033;Chile;164270
+Chapecó;-27.1;-52.64;Brazil;160157
+Barreiras;-12.1528;-44.99;Brazil;158292
+Itapetininga;-23.5917;-48.0531;Brazil;157016
+Anaco;9.4333;-64.4667;Venezuela;162704
+Sullana;-4.9;-80.7;Peru;162434
+José María Ezeiza;-34.8333;-58.5167;Argentina;160219
+Bragança Paulista;-22.9189;-46.5425;Brazil;160665
+Pindamonhangaba;-22.9239;-45.4617;Brazil;160614
+San Nicolás de los Arroyos;-33.3333;-60.2167;Argentina;160000
+Huaycan;-12.0139;-76.825;Peru;160000
+Punta del Este;-34.97;-54.95;Uruguay;159000
+Catamarca;-28.4686;-65.7792;Argentina;159139
+Rafael Castillo;-34.7167;-58.6167;Argentina;147965
+Calama;-22.4624;-68.9272;Chile;157575
+Lajes;-27.8158;-50.3258;Brazil;156727
+Rondonópolis;-16.4695;-54.64;Brazil;152912
+Esmeraldas;0.95;-79.6667;Ecuador;154035
+Palo Negro;10.16;-67.5582;Venezuela;153706
+Guarapuava;-25.38;-51.48;Brazil;150850
+Macaé;-22.38;-41.79;Brazil;143029
+Poços de Caldas;-21.78;-46.57;Brazil;146588
+Quevedo;-1.0333;-79.45;Ecuador;150827
+Riobamba;-1.6743;-78.6483;Ecuador;146324
+Florencio Varela;-34.8167;-58.3833;Argentina;146704
+Talcahuano;-36.7145;-73.1141;Chile;147831
+Patos de Minas;-18.5871;-46.5149;Brazil;150833
+Copiapó;-27.3665;-70.3323;Chile;150804
+Ocumare del Tuy;10.1136;-66.7814;Venezuela;150000
+Valdivia;-39.8142;-73.2459;Chile;150048
+Concordia;-31.3922;-58.0169;Argentina;149450
+Quilpué;-33.0498;-71.4415;Chile;147991
+Osorno;-40.5667;-73.15;Chile;147460
+Mogi Guaçu;-22.3719;-46.9419;Brazil;147233
+Franco da Rocha;-23.3286;-46.7244;Brazil;145755
+Paranaguá;-25.5279;-48.5345;Brazil;141013
+San Justo;-34.6833;-58.55;Argentina;136604
+Villa de Cura;10.0386;-67.4894;Venezuela;145098
+Barranca;-10.7539;-77.761;Peru;144381
+Parnaíba;-2.91;-41.77;Brazil;138008
+Florencia;1.6142;-75.6117;Colombia;143871
+Jaú;-22.2958;-48.5578;Brazil;143283
+Castanhal;-1.2939;-47.9264;Brazil;137406
+Yaritagua;10.08;-69.1261;Venezuela;140256
+Botucatu;-22.8858;-48.445;Brazil;139483
+Caxias;-4.833;-43.35;Brazil;134640
+Jequié;-13.85;-40.08;Brazil;135574
+Atibaia;-23.1172;-46.5506;Brazil;137187
+Quillacollo;-17.3975;-66.2817;Bolivia;137182
+Encarnación;-27.3333;-55.8667;Paraguay;136308
+Cartago;4.75;-75.91;Colombia;134827
+Milagro;-2.1347;-79.5872;Ecuador;133508
+Ibarra;0.3628;-78.13;Ecuador;131856
+Jaraguá do Sul;-26.48;-49.1;Brazil;130130
+Calabozo;8.9219;-67.4283;Venezuela;131989
+Los Guayos;10.1833;-67.9333;Venezuela;130345
+Ciénaga;11.0104;-74.25;Colombia;131171
+Girardot;4.31;-74.81;Colombia;130289
+Quibdó;5.6923;-76.6582;Colombia;130825
+Villa Alemana;-33.0428;-71.3744;Chile;125140
+Táriba;7.8167;-72.2167;Venezuela;128590
+Araras;-22.3569;-47.3839;Brazil;128895
+Puno;-15.8433;-70.0236;Peru;128637
+Salto;-31.3883;-57.9606;Uruguay;124878
+Alagoinhas;-12.1356;-38.4192;Brazil;124070
+Pôrto Seguro;-16.4296;-39.08;Brazil;123173
+Temperley;-34.7667;-58.3833;Argentina;121451
+Guasdualito;7.2467;-70.7292;Venezuela;128025
+Cubatão;-23.8953;-46.4256;Brazil;127006
+Santana de Parnaíba;-23.4439;-46.9178;Brazil;126574
+Sogamoso;5.72;-72.94;Colombia;126551
+Ramos Mejía;-34.65;-58.5667;Argentina;120346
+Barbacena;-21.2258;-43.7739;Brazil;126284
+Cagua;10.1831;-67.45;Venezuela;122571
+Jandira;-23.5278;-46.9028;Brazil;118832
+Uruguaiana;-29.755;-57.0878;Brazil;125435
+Curicó;-34.9854;-71.2394;Chile;125275
+Resende;-22.4689;-44.4469;Brazil;125214
+Porlamar;10.9556;-63.8478;Venezuela;120924
+Pouso Alegre;-22.22;-45.94;Brazil;115201
+Punta Arenas;-53.1627;-70.9081;Chile;123403
+Barretos;-20.5569;-48.5678;Brazil;119243
+Machiques;10.0667;-72.5667;Venezuela;122734
+Ciudad Ojeda;10.2;-71.3;Venezuela;122124
+Pedro Juan Caballero;-22.5667;-55.7167;Paraguay;122190
+Ribeirão Pires;-23.7108;-46.4128;Brazil;120396
+Valinhos;-22.9708;-46.9958;Brazil;120258
+Sertãozinho;-21.1378;-47.99;Brazil;120152
+Poá;-23.5286;-46.345;Brazil;113793
+San Carlos;9.65;-68.5833;Venezuela;120000
+Várzea Paulista;-23.2108;-46.8278;Brazil;116601
+Guaratinguetá;-22.8167;-45.2278;Brazil;119073
+Huaraz;-9.5333;-77.5333;Peru;118836
+Charallave;10.2431;-66.8622;Venezuela;117707
+Birigui;-21.2889;-50.34;Brazil;118352
+Santa Cruz do Sul;-29.7178;-52.4258;Brazil;118374
+San Martín;-33.0806;-68.4706;Argentina;117399
+Conselheiro Lafaiete;-20.67;-43.79;Brazil;111596
+Mendoza;-32.8833;-68.8333;Argentina;114822
+Tandil;-37.3167;-59.1333;Argentina;116917
+Araguari;-18.6489;-48.1869;Brazil;116871
+Tatuí;-23.3556;-47.8569;Brazil;116682
+Valle de La Pascua;9.2033;-66.0103;Venezuela;115902
+Garanhuns;-8.89;-36.5;Brazil;110085
+Puerto Madryn;-42.773;-65.0366;Argentina;115353
+Salto;-23.2008;-47.2869;Brazil;114171
+Ciudad de la Costa;-34.8167;-55.95;Uruguay;112449
+Bernal;-34.7;-58.2833;Argentina;109914
+Itatiba;-23.0058;-46.8389;Brazil;113284
+Ubá;-21.12;-42.9428;Brazil;113300
+Caraguatatuba;-23.62;-45.4128;Brazil;113317
+Linhares;-19.39;-40.05;Brazil;105075
+Catanduva;-21.14;-48.98;Brazil;109612
+Montero;-17.3333;-63.3833;Bolivia;112837
+Castelar;-34.65;-58.65;Argentina;107786
+San Carlos de Bariloche;-41.15;-71.3;Argentina;112887
+Santa Lucía;10.2606;-66.6639;Venezuela;112357
+Carora;10.1755;-70.0828;Venezuela;112600
+Esteban Echeverría;-34.8167;-58.4667;Argentina;109644
+Tablada;-34.6833;-58.5333;Argentina;102542
+Villa Mercedes;-33.6667;-65.4667;Argentina;111391
+Ourinhos;-22.9789;-49.8708;Brazil;110282
+Quíbor;9.9281;-69.5778;Venezuela;110536
+Tinaquillo;9.9167;-68.3;Venezuela;110000
+Bagé;-31.32;-54.1;Brazil;106098
+Pisco;-13.71;-76.2032;Peru;109965
+Apucarana;-23.55;-51.47;Brazil;107085
+Gualeguaychú;-33.0078;-58.5111;Argentina;109461
+Corumbá;-19.0089;-57.6528;Brazil;109294
+Ipiales;0.8289;-77.6406;Colombia;109116
+Teófilo Otoni;-17.87;-41.5;Brazil;101170
+El Limón;10.3059;-67.6321;Venezuela;106206
+San Rafael;-34.6175;-68.3356;Argentina;107997
+La Banda;-27.7333;-64.25;Argentina;106441
+Santa Rosa;-36.6203;-64.2906;Argentina;103860
+Libertad;-34.6833;-58.6833;Argentina;100324
+Araxá;-19.5928;-46.9408;Brazil;103287
+Talara;-4.5833;-81.2667;Peru;103200
+Santo Antônio de Jesus;-12.9692;-39.2611;Brazil;101548
+Assis;-22.6619;-50.4119;Brazil;101597
+Berisso;-34.8667;-57.8667;Argentina;101123
+Duitama;5.8305;-73.02;Colombia;101156
+Socopó;8.2322;-70.8206;Venezuela;101512
+Trinidad;-14.8333;-64.9;Bolivia;101454
+Mairiporã;-23.3189;-46.5869;Brazil;100179
+Magangué;9.23;-74.74;Colombia;100313
