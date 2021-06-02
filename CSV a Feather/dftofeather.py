@@ -1,5 +1,6 @@
 
-# Es necesario una versión de numpy < 1.20.0 e instalar pyarrow.
+# Es necesario instalar pyarrow, si pyarrow < 3.0.0, requiere versión numpy < 1.20.0.
+# Si pyarrow >= 3.0.0, numpy >= 1.20.0 es compatible.
 
 import pandas as pd 
 import os
