@@ -1,0 +1,96 @@
+#K.nearest neighbors
+#el algoritmo busca los K cercanos etiquetados
+#Ejemplo cuando k=3 y cuando k=5
+
+import pandas as pd
+
+##Se agrega la dirección de la data 
+root=" "
+##Se agrega el nombre de la data
+file=" "
+
+ruta=root+file
+
+data= pd.read_csv(ruta, sep=",")
+
+#determinar lo que se desea predecir
+
+y=data['party'].values
+
+x=data.drop('party',axis=1).values
+
+
+#############################################################KNN
+
+# Import KNeighborsClassifier from sklearn.neighbors
+from sklearn.neighbors import KNeighborsClassifier  ##la formula del algoritmo
+
+
+# Create a k-NN classifier with 6 neighbors
+knn = KNeighborsClassifier(n_neighbors=6)
+
+# Fit the classifier to the data
+knn.fit(x,y)
+
+#predecir
+
+print(knn.score(x,y))
+
+
+#split entrenamiento y test(435 datos)
+
+from sklearn.model_selection import train_test_split
+
+x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2,random_state=42,stratify=y)
+
+#implementando el algoritmo
+knn_e=KNeighborsClassifier(n_neighbors=5)
+
+#predictores que tan bueno es mi algoritmo
+
+knn_e.fit(x_train,y_train)
+
+
+#evaluar el modelo
+print(knn_e.score(x_train,y_train))
+
+print(knn_e.score(x_test,y_test))
+
+#pronosticos
+
+y_prediccion= knn_e.predict(x_test)
+
+##determinando el vecino optimo
+
+
+# Setup arrays to store train and test accuracies
+
+import numpy as np
+
+data_n=np.arange(1,9)
+ #genera series del 1 al 8
+
+train_resultados=np.empty(len(data_n))
+test_resultados=np.empty(len(data_n))
+
+
+
+# Loop over different values of k
+
+    
+for i,k in enumerate(data_n):
+    
+    knn_data=KNeighborsClassifier(n_neighbors=k)# Setup a k-NN Classifier with k neighbors: knn
+    knn_data.fit(x_train,y_train)
+    
+    test_resultados[i]=knn_data.score(x_test,y_test)#Compute accuracy on the training set
+    train_resultados[i]=knn_data.score(x_train,y_train)
+    
+
+import matplotlib.pyplot as plt
+
+#Gerando plot
+plt.title('k-NN: Varying Number of Neigbors')
+plt.plot(data_n,test_resultados,label="testing")
+plt.plot(data_n,train_resultados,label="train")
+plt.legend()
